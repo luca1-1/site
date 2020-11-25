@@ -1,0 +1,33 @@
+.titulos{
+    margin: 0;
+    background-color: transparent;
+    color:white;
+      text-align: center;
+      font-weight: bold;
+      font-size: 250%;
+      padding:2%;
+  }
+  .texto{
+      text-align: center;
+      color: white;
+      padding: 5px;
+  }
+  .row{
+      background-color: white;
+      color: #ff087f;
+      font-size: 20px;
+      margin: 0;
+      padding-top: 5em;
+  }
+  .row p{
+      padding-top: 15px;
+  }
+  .titulos2{
+    margin: 0;
+    background-color: transparent;
+    color:#ff087f;
+      text-align: center;
+      font-weight: bold;
+      font-size: 250%;
+      padding:2%;
+  }

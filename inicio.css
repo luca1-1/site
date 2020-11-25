@@ -1,0 +1,90 @@
+
+.texto-inicio{
+    font-size: 250%;
+    font-weight: bold;
+    color: white;
+  }
+.titulos{
+  margin: 0;
+  background-color: white;
+  color:#ff087f;
+    text-align: center;
+    font-weight: bold;
+    font-size: 250%;
+    padding:2%;
+}
+#painel{
+  color: white;
+  background-color: black;
+  position: relative;
+  width: 100%;
+}
+.texto{
+  display: flex;
+  justify-content: end;
+  flex-direction: column;
+  height: auto;
+  padding: 50px;
+  padding-right: 0px;
+  padding-bottom: 100px;
+}
+.textos{
+  color:white;
+  text-align: center;
+}
+.sobre{
+  position: absolute;
+  bottom: 0;
+}
+.row{
+  margin: 0;
+}
+
+.imgstd{
+  padding-top: 0;
+  box-shadow:#ff087f;
+}
+.card{
+  border:none;
+  color: #ff087f;
+  background-color: transparent;
+}
+.card .btn{
+  border: none;
+  color: white;
+  border-radius: 100px;
+  background-image:linear-gradient(to right,#ff087f,purple); 
+}
+.card .btn:hover{
+  color:#ff087f;
+  background-color: white;
+  background-image: none;
+  border:solid 1px #ff087f;
+
+}
+.col a:hover{
+ text-decoration: none;
+ color: purple;
+}
+link:hover{
+  color: #ff087f;
+  text-decoration: none;
+}
+.branco, .branco .textos, .branco p {
+  margin-bottom: 0;
+  color:#ff087f;
+  background-color: white;
+}
+.l{
+  padding-bottom: 1em;
+}
+.u{
+  background-color: transparent;
+  color: white;
+}
+.b{
+  background-color: white;
+}
+#contato a:hover{
+  color: purple;
+}
